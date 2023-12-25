@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 Currently working on Flutter
-- :v: My Next Target ==> Building Web Apps in React JS
+- 🔭 Currently working on Flutter, ReactJS
 - 💬 Ask me about ... Mobile Apps, Web Apps
 - :heart: Love Cricket , MCU , Tom & Jerry.
 
